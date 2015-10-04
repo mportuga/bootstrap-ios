@@ -1,4 +1,4 @@
-# [Bootstrap](http://getbootstrap.com)
+# [Bootstrap Spaceship - An ode to iOS](http://getbootstrap.com)
 Bootstrap Spaceship - An ode to iOS
 
 ## Table of contents
@@ -12,7 +12,7 @@ Bootstrap Spaceship - An ode to iOS
 
 ## Quick start
 
-Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
+Read the [Bootstrap Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
 ## Documentation
 
