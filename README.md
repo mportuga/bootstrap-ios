@@ -6,7 +6,6 @@ and picking colors from <http://ios7colors.com/>.
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Creators](#creator)
