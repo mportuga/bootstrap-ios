@@ -10,6 +10,9 @@ body {
   z-index: 10;
   background: #fff;
 }
+.download-btn {
+  margin-top: 20px;
+}
 .bs-component {
   position: relative;
 }
