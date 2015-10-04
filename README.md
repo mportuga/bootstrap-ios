@@ -1,10 +1,13 @@
-# [Bootstrap Spaceship - An ode to iOS](http://getbootstrap.com)
-Bootstrap Spaceship - An ode to iOS
+# [Bootstrap Spaceship - An ode to iOS](http://portugaldev.com/bootstrap-ios/)
+Spaceship is an iOS inspired bootstrap theme that I made by modifying bootstrap's default variables.less with iOS colors and
+my knowledge of what iOS apps look like. I was able to do this by reading the [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+and picking colors from <http://ios7colors.com/>.<br />
+In order to download this theme, you can either download the zip file from the dist folder in this Repo, or you can go to
+<http://portugaldev.com/bootstrap-ios/> and click the download link.
 
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Creators](#creator)
@@ -16,7 +19,8 @@ Read the [Bootstrap Getting started page](http://getbootstrap.com/getting-starte
 
 ## Documentation
 
-Bootstrap's documentation is built with [Jekyll](http://jekyllrb.com) and publicly hosted on GitHub Pages at <http://getbootstrap.com>.
+You can find a sample page with the Spaceship theme applied at <http://portugaldev.com/bootstrap-ios/>.
+Bootstrap's documentation is publicly hosted on GitHub Pages at <http://getbootstrap.com>.
 
 ## Contributing
 
